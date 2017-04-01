@@ -10,5 +10,5 @@ Use the espressuino IDE to upload (https://www.espruino.com/ide/), connect and u
 * Use a long press of the button to go to the previous slide (sends the left-arrow key)
 
 ## Other Uses
-Ypu could always send other keys/strings to all sorts of apps.
+You could always send other keys/strings to all sorts of apps.
 
