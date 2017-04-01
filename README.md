@@ -3,6 +3,9 @@ Use a PuckJS to go forwards and backwards in Powerpoint
 
 ## Instalation
 Use the espressuino IDE to upload (https://www.espruino.com/ide/), connect and upload.
+***Note***
+The first time you may get an error "Expecting a number or something iterable, got undefined..."
+Disconnect from the Puck and then reconnect, which should clear it
 
 ## Testing
 * Launch Powerpoint in presenter mode
